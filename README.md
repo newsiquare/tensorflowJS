@@ -26,6 +26,12 @@ https://github.com/tensorflow/tfjs-models
   
 #### (3)多個bbox
 ##### bbox輸出若有3個，result[i]的i會是0,1,2，分別代表三個bbox
-    result[0].bbox, .class, .score
-    result[1].bbox, .class, .score
-    result[].bbox, .class, .score
+    result[0].bbox, 
+             .class, 
+             .score
+    result[1].bbox, 
+             .class, 
+             .score
+    result[2].bbox, 
+             .class, 
+             .score
