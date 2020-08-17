@@ -14,7 +14,6 @@ https://github.com/tensorflow/tfjs-models
 #### (2)bbox屬性
 ##### const result = await model.detect(image);
 ##### ....
-##### ....
 ##### 此處result是辨識結果物件bbox，具備以下三個屬性~
 ##### [{
   ##### bbox: [x, y, width, height],
