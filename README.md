@@ -16,9 +16,9 @@ https://github.com/tensorflow/tfjs-models
 ##### ....
 ##### 此處result是辨識結果物件bbox，具備以下三個屬性~
 ##### [{
-  ##### bbox: [x, y, width, height],
-  ##### class: "cat",
-  ##### score: 0.8380282521247864
+     ##### bbox: [x, y, width, height],
+     ##### class: "cat",
+     ##### score: 0.8380282521247864
 ##### }]  
 
   
