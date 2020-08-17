@@ -5,7 +5,7 @@ https://github.com/tensorflow/tfjs-models
 ##
 
 # 說明
-#### (1)本處修改前台的src呼叫，直接指定版本，並免網頁讀取model失敗  
+#### (1)本處修改前台的src呼叫，直接指定版本，避免網頁load model失敗  
 ##### <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@0.9.0">
 ##### <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/coco-ssd@1.1.0">
     
